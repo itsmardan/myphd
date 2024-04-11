@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://myphd.org/sitemap.xml
